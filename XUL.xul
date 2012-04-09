@@ -5,7 +5,7 @@
 <wizard id="example-window" title="Firefox Easy Fix"
   xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 
-  <wizardpage>
+  <wizardpage description="Firefox Easy Fix">
    <div style="position:fixed; top:70px; left:100px;">
     <description>
       Welcome! This utility will help you fix the following problem in your Firefox: 
